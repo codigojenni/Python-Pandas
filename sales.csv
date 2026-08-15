@@ -1,0 +1,9 @@
+Region,Salesperson,Product,Units_Sold,Revenue
+North,Alice,Widgets,34,3400
+North,Bob,Widgets,45,4500
+South,Charlie,Gadgets,23,2300
+South,Diana,Gadgets,56,5600
+East,Ethan,Widgets,67,6700
+East,Faith,Gadgets,38,3800
+West,George,Widgets,54,5400
+West,Hannah,Gadgets,49,4900
