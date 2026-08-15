@@ -1,0 +1,9 @@
+employee_id,name,state,department,job_title,hire_date,salary
+1001,Alice Johnson,TX,Sales,Manager,2020-01-15,75000.0
+1002,bob smith,tx,sales,sales rep,15/02/2021,50000.0
+1003,Charlie Lee,Texas,Marketing,Marketing Lead,"March 3, 2020",65000.0
+1004,David Green,CA,HR,HR assistant,2021/04/01,48000.0
+1005,,ca,HR,hr Assistant,,47000.0
+1006,Eva Hall,NY,Finance,Accountant,2022-05-10,72000.0
+1007,Frank Wright,,finance,Accountant,May 20 2021,
+1003,Charlie Lee,Texas,Marketing,Marketing Lead,"March 3, 2020",65000.0

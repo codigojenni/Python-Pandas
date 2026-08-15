@@ -1,0 +1,8 @@
+name,state,date_joined,score
+Alice,texas,2022-01-05,88.0
+Bob,texas,01/15/2022,92.0
+Charlie,texas,"Feb 1, 2022",
+David,ca,,85.0
+,ca,2022/03/01,90.0
+Eva,,March 5 2022,
+Frank,ny,2022-03-07,95.0

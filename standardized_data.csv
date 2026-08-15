@@ -1,0 +1,8 @@
+name,state,date_joined,score,normalized
+Alice,tx,2022-01-05,88.0,0.3
+Bob,tx,2022-01-15,92.0,0.7
+Charlie,texas,2022-02-01,,
+David,ca,,85.0,0.0
+,ca,2022-03-01,90.0,0.5
+Eva,,2022-03-05,,
+Frank,ny,2022-03-07,95.0,1.0
